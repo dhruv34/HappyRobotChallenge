@@ -1,0 +1,11 @@
+reference_number,origin,destination,equipment_type,rate,commodity
+REF09460,Denver,CO,Detroit,MI,Dry Van,868,Automotive Parts
+REF04684,Dallas,TX,Chicago,IL,Dry Van or Flatbed,570,Agricultural Products
+REF09690,Detroit,MI,Nashville,TN,Dry Van,1495,Industrial Equipment
+REF02134,Atlanta,GA,Orlando,FL,Flatbed,725,Construction Materials
+REF07856,Los Angeles,CA,Phoenix,AZ,Refrigerated,1200,Perishable Goods
+REF01357,Houston,TX,San Antonio,TX,Dry Van,450,Consumer Electronics
+REF04578,Seattle,WA,Portland,OR,Flatbed,620,Lumber
+REF09872,Miami,FL,New York,NY,Refrigerated,1850,Pharmaceuticals
+REF01234,Boston,MA,Washington,DC,Dry Van,910,Books and Media
+REF06789,San Francisco,CA,Las Vegas,NV,Dry Van,680,Furniture
